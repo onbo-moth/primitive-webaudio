@@ -1,0 +1,8 @@
+.audioviz-wrapper {
+  border: 2px solid black;
+  overflow: hidden;
+}
+
+.oscillator {
+  border: 2px solid black;
+}
